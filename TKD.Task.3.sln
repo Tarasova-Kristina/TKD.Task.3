@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TKD.Task.3", "TKD.Task.3\TKD.Task.3.csproj", "{CF7893B9-6B58-4FB0-86D0-858B2CB6F178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7893B9-6B58-4FB0-86D0-858B2CB6F178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7893B9-6B58-4FB0-86D0-858B2CB6F178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7893B9-6B58-4FB0-86D0-858B2CB6F178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7893B9-6B58-4FB0-86D0-858B2CB6F178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B6DC0F-FC65-4211-889E-3ECD86A87234}
+	EndGlobalSection
+EndGlobal
